@@ -43,7 +43,6 @@
       export default $1;
     """
 
-'.source.js':
   'React Each Do':
     'prefix': 'red'
     'body': """
